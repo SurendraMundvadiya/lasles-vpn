@@ -1,0 +1,8 @@
+#header_logp_img {
+    height: 1.4rem;
+}
+
+.header_link {
+    text-decoration: none;
+    color: var(--captionColor);
+}

@@ -1,0 +1,26 @@
+button {
+    padding: 0.4rem 1rem;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.outlined {
+    border: 2px solid var(--mainColor);
+    background-color: transparent;
+}
+.text {
+    border: 0;
+    background-color: transparent;
+}
+.contained {
+    background-color: var(--mainColor);
+    border: 2px solid var(--mainColor);
+    color: white;
+}
+.rounded {
+    border-radius: 1rem;
+}
+.square {
+    border-radius: 0.4rem;
+    padding: 0.4rem 2rem;
+}
